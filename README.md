@@ -23,14 +23,11 @@ Here is my source code for building UI of a social media app for user who want t
 
 ## Main features: 
 * **Login/Register page**
-* **Nav bar**
-* **Left menu**
-* **Right menu**
 * **Home page**
 * **Profile page**
-* **User's post**
-* **User's comment**
 * **Dark mode with context API**
+* **User's post**
+* **User's comment/like**
 * **React Sass Responsive**
 
 ## How to use my code
