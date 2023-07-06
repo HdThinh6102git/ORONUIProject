@@ -4,16 +4,16 @@
 
 Here is my source code for building UI of a social media app for user who want to share their redundant food or something, and then others can register to receive that things. 
 <p align="center">
-  <img src="demo/loginregister.gif" width="300">
-  <img src="demo/homepage.gif" width="300">
-  <img src="demo/profilepage.gif" width="300">
-  <img src="demo/darkmode.gif" width="300"><br/>
-  <img src="demo/reactpost.gif" width="300">
-  <img src="demo/clickbutton.gif" width="300">
-  <img src="demo/commentlive.gif" width="300">
-  <img src="demo/addpost.gif" width="300"><br/>
-  <img src="demo/deletepost.gif" width="300">
-  <img src="demo/registerpost.gif" width="300"><br/>
+  <img src="demo/loginregister.gif" width="400">
+  <img src="demo/homepage.gif" width="400">
+  <img src="demo/profilepage.gif" width="400">
+  <img src="demo/darkmode.gif" width="400"><br/>
+  <img src="demo/reactpost.gif" width="400">
+  <img src="demo/clickbutton.gif" width="400">
+  <img src="demo/commentlive.gif" width="400">
+  <img src="demo/addpost.gif" width="400"><br/>
+  <img src="demo/deletepost.gif" width="400">
+  <img src="demo/registerpost.gif" width="400"><br/>
   <i>Sample results</i>
 </p>
 
