@@ -21,14 +21,13 @@ Here is my source code for building UI of a social media app for user who want t
 
  In Vietnam daily life, I realized that there are many households with excess food that is not used up. Meanwhile, some people need that amount of food for their living, to make pet food for example. Moreover it is the demand to give and take old things together. From that actual need, I decided to build a social media app dedicated to sharing utensils (food, items, ..) to make this sharing more efficient and convenient  and called the application as ORON (Our Redundances Other Necessaries).
 
-## Main features: 
+## Main components: 
 * **Login/Register page**
 * **Home page**
 * **Profile page**
 * **Dark mode with context API**
 * **User's post**
 * **User's comment/like**
-* **React Sass Responsive**
 
 ## How to use my code
 
