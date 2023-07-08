@@ -23,9 +23,10 @@ Here is my source code for building the UI of a social media app for users who w
 
 
 ##Usecase diagram 
+
 <p align="center">
   <i>Usecase diagram</i><br/>
-  <img src="demo/usecasediagram.PNG" width="500"><br/>
+  <img src="demo/oronusecase.png" width="500"><br/>
 </p>
 
 ## Main components: 
