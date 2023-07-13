@@ -27,7 +27,7 @@ Here is my source code for building the UI of a social media app for users who w
 <p align="center">
   <i>Usecase diagram</i><br/>
   <img src="demo/oronusecase.png" width="500"><br/>
-  <i>Link system analysis: [https://docs.google.com/document/d/1A_l-G4DdyuuDWZijfDaK-KKGS3IX7d5YfKWeXW2-wrk/edit?usp=sharing](https://docs.google.com/document/d/1diRNb74MNPIIrjgBVuJY4wnQwGYAeJEsLfGv4ZpVfOQ/edit?usp=sharing) </i><br/>
+  <i>Link system analysis: https://docs.google.com/document/d/1diRNb74MNPIIrjgBVuJY4wnQwGYAeJEsLfGv4ZpVfOQ/edit </i><br/>
 </p>
 
 ## Main components: 
